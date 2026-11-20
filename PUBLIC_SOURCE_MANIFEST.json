@@ -1,0 +1,16 @@
+{
+  "repository": "timeweb_synergy_cpu_gpu_cost_benchmark",
+  "public_source_files": 9,
+  "excluded_offline_only": [],
+  "sha256": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "2fb3be122ee753f926ea05a2ccb8d253930daa3e3d65234b8575b95a803e65fc",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article12.py": "4b712a281862e753d7b4592e97691d2cde4c5e3f44568bd31aea73f8e7d3a522",
+    "prototypes/tests/test_articles_09_12.py": "0a158322bc4be3f7eb5ef6d48ec789443335b69e147ef81f7c108ecf329a11c5",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247"
+  }
+}
